@@ -1,1 +1,1 @@
-"# vendingMachine_demo" 
+# 自動販売機のシュミレーションの作成練習
